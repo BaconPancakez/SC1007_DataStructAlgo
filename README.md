@@ -30,7 +30,7 @@ This repository is organized by topic and assignment.
 From the repository root:
 
 ```bash
-python <path-to-script>.py
+python3 <path-to-script>.py
 ```
 
 Example:
